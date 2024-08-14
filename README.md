@@ -4,7 +4,7 @@ Hey there! Welcome to the Hangman game. 🎉
 
 ## What’s This?
 
-A fun Hangman game whereby the way you guess letters to figure out a secret word.
+A fun Hangman game where you guess letters to figure out a secret word. 
 
 ## How to Play
 
@@ -13,15 +13,16 @@ A fun Hangman game whereby the way you guess letters to figure out a secret word
     python hangman.py
     ```
 
-2. **Predict the letters**. You possess eight chances to obtain it right!
+2. **Guess letters**. You have 8 tries to get it right!
 
-3. **See whether you win or lose**.
-
+3. **See if you win or lose**.
 
 ## Quick Notes
 
-- **Words**: I utilize a word list. and You will guess one at a time.
-- **Attempts**: You endure eight opportunities to guess correctly.
+- **Words**: We use a list of words. You’ll guess one at a time.
+- **Attempts**: You’ve got 8 chances to guess correctly.
 
+
+---
 
 Enjoy the game and good luck guessing! 😄
