@@ -1,12 +1,8 @@
 import random
 import arts
+from word_list import words
 
 print(arts.title_art)
-
-words = ['luxury', 'quiz', 'icebox', 'juicy', 'voodoo', 'cycle', 'equip', 'pajama', 
-         'oxygen', 'pixel', 'galaxy', 'funny', 'zigzag', 'staff', 'scratch', 'jazz', 
-         'mouse', 'jungle', 'notebook', 'frug', 'pizza', 'rocket', 'calendar', 
-         'algebra', 'chocolate', 'koala', 'unicorn', 'father']
 
 secret_word = random.choice(words)
 blanks = ['_'] * len(secret_word)
