@@ -19,7 +19,7 @@ A fun Hangman game where you guess letters to figure out a secret word.
 
 ## Quick Notes
 
-- **Words**: We use a list of words. You’ll guess one at a time.
+- **Words**: I use a list of words. You’ll guess one at a time.
 - **Attempts**: You’ve got 8 chances to guess correctly.
 
 
